@@ -70,7 +70,7 @@ b. A user should not be able to join a session that has already ended.
 ### Expected Artifacts
 
 1. Commit your code to a github repository and send its link to us via email.
-   - Refer to this link
+   - Refer to this link https://github.com/JSFOO-D/heygrubbud
 
 2. Your repository should include a document explaining how your application is
    expected to be cloned and run, including any necessary preparations of the
